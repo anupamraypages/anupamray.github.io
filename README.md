@@ -1,18 +1,16 @@
-anupamray.github.io
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>John Doe</h1>
-  <p>Web Developer</p>
+  <h1>ANUPAM RAY</h1>
+  <p>English Teacher</p>
 
   <div class="section">
     <h2>Contact Information</h2>
-    <p>Email: john.doe@example.com</p>
-    <p>Phone: (123) 456-7890</p>
-    <p>Address: 123 Main Street, City, State, Zip</p>
+    <p>Email: anupam.ray.ma@gmail.com</p>
+    <p>Address: Dhupguri Hospital Para, Ward No. 08, P.O.- Bairatiguri, P.S.- Dhupguri, District- Jalpaiguri, State- West Bengal, PIN code- 735210</p>
   </div>
 
   <div class="section">
