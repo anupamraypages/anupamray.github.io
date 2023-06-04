@@ -1,26 +1,8 @@
+#anupamray.github.io
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Resume</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      color: #333;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .section h2 {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-    .section p {
-      margin-bottom: 5px;
-    }
-  </style>
 </head>
 <body>
   <h1>John Doe</h1>
