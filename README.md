@@ -41,18 +41,18 @@
   <div class="section">
     <h2>Skills</h2>
     <ul>
-      <li>Effective Communication: Strong verbal and written communication skills to convey information and instructions clearly to students of varying proficiency levels. Also includes active listening and providing constructive feedback.</li>
-<li>Curriculum Development: The ability to design and develop engaging lesson plans, instructional materials, and assessments aligned with curriculum standards and learning objectives.</li>
-<li>Classroom Management: Skill in creating a positive and well-managed classroom environment, maintaining discipline, and promoting student engagement and participation.</li>
-<li>Differentiated Instruction: The capability to tailor teaching methods, materials, and assessments to meet the diverse needs, learning styles, and abilities of students.</li>
-<li>Literary Analysis: Proficiency in analyzing and interpreting literary texts, including comprehension of themes, character development, and literary devices.</li>
-<li>Grammar and Language Proficiency: Strong command of English grammar rules and language usage, enabling effective instruction and accurate language assessment.</li>
-<li>Technological Proficiency: Familiarity with educational technology tools, such as learning management systems, interactive whiteboards, and online resources, to enhance teaching and facilitate student learning.</li>
-<li>Critical Thinking and Problem-Solving: The ability to encourage students to think critically, analyze information, and solve problems using logical reasoning and creative thinking skills.</li>
-<li>Cultural Competence: Sensitivity and understanding of diverse cultures, backgrounds, and perspectives, promoting inclusivity and creating a supportive learning environment.</li>
-<li>Collaboration and Teamwork: Skill in collaborating with colleagues, parents, and school administrators to foster a cooperative and productive educational environment.</li>
-<li>Assessment and Feedback: Proficiency in evaluating student progress, providing constructive feedback, and implementing various assessment strategies to measure learning outcomes effectively.</li>
-<li>Adaptability and Flexibility: The capacity to adapt teaching methods, materials, and strategies to accommodate changing circumstances, new technologies, and emerging educational trends.</li>
+      <li><strong>Effective Communication:</strong> Strong verbal and written communication skills to convey information and instructions clearly to students of varying proficiency levels. Also includes active listening and providing constructive feedback.</li>
+<li><strong>Curriculum Development:</strong> The ability to design and develop engaging lesson plans, instructional materials, and assessments aligned with curriculum standards and learning objectives.</li>
+<li><strong>Classroom Management:</strong> Skill in creating a positive and well-managed classroom environment, maintaining discipline, and promoting student engagement and participation.</li>
+<li><strong>Differentiated Instruction:</strong> The capability to tailor teaching methods, materials, and assessments to meet the diverse needs, learning styles, and abilities of students.</li>
+<li><strong>Literary Analysis:</strong> Proficiency in analyzing and interpreting literary texts, including comprehension of themes, character development, and literary devices.</li>
+<li><strong>Grammar and Language Proficiency:</strong> Strong command of English grammar rules and language usage, enabling effective instruction and accurate language assessment.</li>
+<li><strong>Technological Proficiency:</strong> Familiarity with educational technology tools, such as learning management systems, interactive whiteboards, and online resources, to enhance teaching and facilitate student learning.</li>
+<li><strong>Critical Thinking and Problem-Solving:</strong> The ability to encourage students to think critically, analyze information, and solve problems using logical reasoning and creative thinking skills.</li>
+<li><strong>Cultural Competence:</strong> Sensitivity and understanding of diverse cultures, backgrounds, and perspectives, promoting inclusivity and creating a supportive learning environment.</li>
+<li><strong>Collaboration and Teamwork:</strong> Skill in collaborating with colleagues, parents, and school administrators to foster a cooperative and productive educational environment.</li>
+<li><strong>Assessment and Feedback:</strong> Proficiency in evaluating student progress, providing constructive feedback, and implementing various assessment strategies to measure learning outcomes effectively.</li>
+<li><strong>Adaptability and Flexibility:</strong> The capacity to adapt teaching methods, materials, and strategies to accommodate changing circumstances, new technologies, and emerging educational trends.</li>
     </ul>
   </div>
 </body>
