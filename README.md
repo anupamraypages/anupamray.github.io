@@ -4,62 +4,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume</title>
   <style>
-    /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #333;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .section h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .section p {
+      margin-bottom: 5px;
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Your Name</h1>
-    <p>Job Title / Professional Summary</p>
+  <h1>John Doe</h1>
+  <p>Web Developer</p>
+
+  <div class="section">
+    <h2>Contact Information</h2>
+    <p>Email: john.doe@example.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>Address: 123 Main Street, City, State, Zip</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p>Bachelor of Science in Computer Science</p>
+    <p>University of XYZ, Year</p>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    <h3>Web Developer</h3>
+    <p>ABC Company, City, State</p>
+    <p>January 2019 - Present</p>
     <ul>
-      <li>Email: yourname@example.com</li>
-      <li>Phone: (123) 456-7890</li>
-      <li>Website: www.example.com</li>
-      <li>Address: 123 Main Street, City, State, Zip</li>
+      <li>Developed and maintained websites using HTML, CSS, and JavaScript</li>
+      <li>Collaborated with team members to implement new features</li>
+      <li>Optimized websites for performance and responsiveness</li>
     </ul>
-  </header>
-  
-  <main>
-    <section>
-      <h2>Education</h2>
-      <ul>
-        <li>
-          <h3>University Name</h3>
-          <p>Degree - Major</p>
-          <p>Graduation Year</p>
-        </li>
-      </ul>
-    </section>
-    
-    <section>
-      <h2>Experience</h2>
-      <ul>
-        <li>
-          <h3>Job Title</h3>
-          <p>Company Name</p>
-          <p>Start Date - End Date</p>
-          <ul>
-            <li>Responsibility 1</li>
-            <li>Responsibility 2</li>
-            <li>Responsibility 3</li>
-          </ul>
-        </li>
-      </ul>
-    </section>
-    
-    <section>
-      <h2>Skills</h2>
-      <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
-      </ul>
-    </section>
-  </main>
-  
-  <footer>
-    <p>References available upon request</p>
-  </footer>
-  
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Responsive Design</li>
+      <li>Version Control (Git)</li>
+    </ul>
+  </div>
 </body>
 </html>
