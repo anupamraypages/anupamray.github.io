@@ -21,9 +21,27 @@
 
   <div class="section">
     <h2>Experience</h2>
-    <h3>Teacher</h3>
-    <p>Khirerkote High School, Falakata, Jalpaiguri (West Bengal Board of Secondary Education)</p>
-    <p>2021-2022</p>
+    <h2>School Intern Experience</h2>
+  <h2>Internship Position: School Intern</h2>
+  <h3>School Name: Khirerkote High School, Falakata, Jalpaiguri (West Bengal Board of Secondary Education)</h3>
+  <h3>Date: 2021 - 2022</h3>
+    <h2>Responsibilities</h2>
+  <ul>
+    <li>Assisted classroom teachers in preparing instructional materials and managing classroom activities.</li>
+    <li>Supported students in various educational activities and provided one-on-one assistance when required.</li>
+    <li>Supervised students during lunchtime, recess, and other non-instructional periods.</li>
+    <li>Assisted in organizing and conducting extracurricular activities, such as field trips and school events.</li>
+    <li>Helped maintain a clean and organized classroom environment.</li>
+    <li>Provided support in grading assignments and recording student progress.</li>
+    <li>Collaborated with teachers and staff to contribute to the overall functioning of the school.</li>
+  </ul>
+
+  <h2>Achievements</h2>
+  <ul>
+    <li>Received positive feedback from classroom teachers for dedication, reliability, and willingness to take on additional responsibilities.</li>
+    <li>Developed strong relationships with students and provided them with academic and emotional support.</li>
+    <li>Assisted in implementing engaging and interactive learning activities, resulting in increased student participation and motivation.</li>
+  </ul>
     <ul>
       <li>Developed and implemented engaging and student-centered lesson plans for English language and literature classes, catering to a diverse range of learners.</li>
 <li>Effectively delivered lessons on grammar, vocabulary, reading comprehension, and writing skills, ensuring students' mastery of English language components.</li>
