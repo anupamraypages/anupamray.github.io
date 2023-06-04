@@ -15,15 +15,15 @@
 
   <div class="section">
     <h2>Education</h2>
-    <p>Bachelor of Science in Computer Science</p>
-    <p>University of XYZ, Year</p>
+    <p>Master of Arts in English</p>
+    <p>The Indira Gandhi National Open University (IGNOU)</p>
   </div>
 
   <div class="section">
     <h2>Experience</h2>
-    <h3>Web Developer</h3>
-    <p>ABC Company, City, State</p>
-    <p>January 2019 - Present</p>
+    <h3>Teacher</h3>
+    <p>Khirerkote High School, Falakata, Jalpaiguri (West Bengal Board of Secondary Education)</p>
+    <p>2021-2022</p>
     <ul>
       <li>Developed and maintained websites using HTML, CSS, and JavaScript</li>
       <li>Collaborated with team members to implement new features</li>
