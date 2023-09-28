@@ -10,7 +10,6 @@
   <div class="section">
     <h2>Contact Information</h2>
     <p>Email: anupam.ray.ma@gmail.com</p>
-    <p>Address: Dhupguri Hospital Para, Ward No. 08, <p>P.O.- Bairatiguri, P.S.- Dhupguri,</p> <p>District- Jalpaiguri, State- West Bengal,</p><p> PIN code- 735210</p></p>
   </div>
 
   <div class="section">
@@ -20,12 +19,7 @@
   </div>
 
   <div class="section">
-    <h2>Experience</h2>
-    <h2>School Intern Experience</h2>
-  <h2>Internship Position: School Intern</h2>
-  <h3>School Name: Khirerkote High School, Falakata, Jalpaiguri (West Bengal Board of Secondary Education)</h3>
-  <h3>Date: 2021 - 2022</h3>
-    <h2>Responsibilities</h2>
+       <h2>Responsibilities</h2>
   <ul>
     <li>Assisted classroom teachers in preparing instructional materials and managing classroom activities.</li>
     <li>Supported students in various educational activities and provided one-on-one assistance when required.</li>
