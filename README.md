@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>ANUPAM RAY</h1>
-  <p>English Teacher</p>
+  <p>Content Analyst</p>
 
   <div class="section">
     <h2>Contact Information</h2>
